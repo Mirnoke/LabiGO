@@ -12,8 +12,8 @@ const chance float32 = 0.25
 
 // размер поля
 const (
-	rows    int = 100
-	columns int = 200
+	rows    int = 10
+	columns int = 20
 )
 
 // создание псевдослучайная последовательность 0 и 1 для создания поля
